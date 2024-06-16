@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **inuka.scv@gmail.com**
 
-- ⚡ Fun fact **I am good at serching.**
+- ⚡ Fun fact **I am good at searching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
