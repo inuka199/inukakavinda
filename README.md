@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Masterhead" width="100%">
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Masterhead" width="450">
 </p>
 
 <h1 align="center">Hi 👋, I'm Inuka Kavinda</h1>
