@@ -1,7 +1,11 @@
-![Masterhead](https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif)
+<p align="center">
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Masterhead" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Inuka Kavinda</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
-<img align="right" alt="coding" width="400" src="https://outlane.co/wp-content/uploads/2018/05/programmer-thomas.gif">
+<p align="center">
+  <img src="https://i.imgur.com/6Xy1PCH.gif" alt="coding" width="400">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inuka199&label=Profile%20views&color=0e75b6&style=flat" alt="inuka199" /> </p>
 
